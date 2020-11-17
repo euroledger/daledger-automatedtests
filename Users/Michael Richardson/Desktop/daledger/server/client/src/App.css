@@ -1,0 +1,23 @@
+
+
+.App-logo {
+    height: 70vmin;
+}
+
+.App-header {
+    /* min-height: 92vh; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(1em + 2vmin);
+}
+
+.App-link {
+    color: rgb(118, 137, 155);
+    padding-top: 5em;
+}
+
+.MuiAppBar-root {
+    height: 4em;
+    font-family: inherit;
+}
